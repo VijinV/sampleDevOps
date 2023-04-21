@@ -1,0 +1,15 @@
+/home/master/Documents/devtest/obj/Debug/net6.0/devtest.csproj.AssemblyReference.cache
+/home/master/Documents/devtest/obj/Debug/net6.0/devtest.GeneratedMSBuildEditorConfig.editorconfig
+/home/master/Documents/devtest/obj/Debug/net6.0/devtest.AssemblyInfoInputs.cache
+/home/master/Documents/devtest/obj/Debug/net6.0/devtest.AssemblyInfo.cs
+/home/master/Documents/devtest/obj/Debug/net6.0/devtest.csproj.CoreCompileInputs.cache
+/home/master/Documents/devtest/bin/Debug/net6.0/devtest
+/home/master/Documents/devtest/bin/Debug/net6.0/devtest.deps.json
+/home/master/Documents/devtest/bin/Debug/net6.0/devtest.runtimeconfig.json
+/home/master/Documents/devtest/bin/Debug/net6.0/devtest.dll
+/home/master/Documents/devtest/bin/Debug/net6.0/ref/devtest.dll
+/home/master/Documents/devtest/bin/Debug/net6.0/devtest.pdb
+/home/master/Documents/devtest/obj/Debug/net6.0/devtest.dll
+/home/master/Documents/devtest/obj/Debug/net6.0/ref/devtest.dll
+/home/master/Documents/devtest/obj/Debug/net6.0/devtest.pdb
+/home/master/Documents/devtest/obj/Debug/net6.0/devtest.genruntimeconfig.cache
